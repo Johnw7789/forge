@@ -19,14 +19,11 @@ Additionally, all app authentication has been removed in addition to the login p
 Forge was built with [Wails](https://wails.io/), using Go for the backend and React for the frontend. [NextUI](https://nextui.org/) (components) and [Recoiljs](https://recoiljs.org/) (state management) were also frequently used.
 
 # Building
-First, install the Wails CLI:
-```go install github.com/wailsapp/wails/v2/cmd/wails@latest```
+Install the Wails CLI:
+``go install github.com/wailsapp/wails/v2/cmd/wails@latest``
 
-Then, in the frontend directory, install npm dependencies:
-```npm i```
-
-Then to build, run this command in the root directory:
-```wails build```
+Then to build:
+``wails build``
 
 # Accounts page
 ![alt text](https://github.com/Johnw7789/forge/blob/main/frontend/images/accounts.png)
