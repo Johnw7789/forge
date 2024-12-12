@@ -1,5 +1,5 @@
 # Disclaimer
-This project was published for educational purposes ONLY. I am not responsible for any individual who may modify it for the intent of malicious or harmful purposes. 
+This project was published for educational purposes ONLY. Using this software is entirely your responsibility. 
 
 # About this project
 Forge is an advanced account generator and toolkit that uses various bot evasion techniques to bypass restrictions on making accounts. Not a single automated browser is used, all automation is executed through http requests using a matching user-agent and tls fingerprint combination along with proper header order. 
