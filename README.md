@@ -4,6 +4,6 @@ Forge is an advanced account generator and toolkit that uses various bot evasion
 
 # Technologies used
 
-Forge was built using Go for the backend, React for the frontend, and ![Wails](https://wails.io/).
+Forge was built using Go for the backend, React for the frontend, and [Wails](https://wails.io/).
 
 ![alt text](https://github.com/Johnw7789/forge/blob/main/frontend/images/accounts.png)
