@@ -22,7 +22,10 @@ Forge was built with [Wails](https://wails.io/), using Go for the backend and Re
 First, install the Wails CLI:
 ``go install github.com/wailsapp/wails/v2/cmd/wails@latest``
 
-Then to build:
+Then, in the frontend directory, install npm dependencies:
+``npm i``
+
+Then to build, run this command in the root directory:
 ``wails build``
 
 # Accounts page
