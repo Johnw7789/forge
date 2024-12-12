@@ -12,7 +12,7 @@ Additionally, all app authentication has been removed in addition to the login p
 - Amazon account generation
 - 2Captcha solve support
 - IMAP support (for grabbing OTP emails)
-- DaisySMS, SMS Man, and SMS Pool support (for retrieving a sms number and OTP)
+- DaisySMS, SMS Man, and SMS Pool support (for retrieving an sms number and OTP)
 - Built in iCloud authentication and Hide My Email (HME) generation
 
 # Technologies used
