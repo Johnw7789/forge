@@ -2,7 +2,7 @@
 This project was published for educational purposes ONLY. Using this software is entirely your responsibility. 
 
 # About this project
-Forge is an advanced account generator and toolkit that uses various bot evasion techniques to bypass restrictions on making accounts. Not a single automated browser is used, all automation is executed through http requests using a matching user-agent and tls fingerprint combination along with proper header order. 
+Forge is an advanced account generator and toolkit that uses various antibot evasion techniques to bypass restrictions on making accounts. Not a single automated browser is used, all automation is executed through http requests using a matching user-agent and tls fingerprint combination along with proper header order. 
 
 Metadata1 (antibot by Amazon) payload generation has been excluded, but it is not fully needed in order to properly generate an account, however it does help in terms of success rate.
 
